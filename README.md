@@ -3,5 +3,5 @@
 Мой проект для работы с Google Dorks.
 
 ## Скриншоты
-![Скрин 1](screenshots/Снимок%20экрана%202025-08-30%20183513.png)
-![Скрин 2](screenshots/Снимок%20экрана%202025-08-30%20183537.png)
+![1]("C:\Users\нет\Documents\google_dork_tool\screenshot\Снимок экрана 2025-08-30 183513.png")
+![2]("C:\Users\нет\Documents\google_dork_tool\screenshot\Снимок экрана 2025-08-30 183537.png")
